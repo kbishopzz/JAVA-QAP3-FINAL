@@ -26,6 +26,6 @@ hs_err_pid*
 *.pdf
 
 # problem readme files
-./problem1/README.md
-./problem2/README.md
-./problem34/README.md
+problem1/README.md
+problem2/README.md
+problem34/README.md
