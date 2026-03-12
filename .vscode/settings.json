@@ -1,0 +1,10 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "checkstyle": true
+    },
+    "java.project.sourcePaths": ["."],
+    "java.project.outputPath": ".",
+    "files.exclude": {
+        "**/*.class": true
+    }
+}
